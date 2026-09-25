@@ -1,3 +1,6 @@
 .elec/
 .env
 *.parquet
+*.csv
+*.xlsx
+*.shp
