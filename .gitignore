@@ -4,3 +4,5 @@
 *.csv
 *.xlsx
 *.shp
+*.cdsapirc
+*.zip
