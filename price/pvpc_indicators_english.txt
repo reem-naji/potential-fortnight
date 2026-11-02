@@ -1,0 +1,221 @@
+                                                                          Indicators matching 'PVPC'                                                                           
+┏━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃ id    ┃ name                                                 ┃ description                                          ┃ short_name                                            ┃
+┡━━━━━━━╇━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┩
+│ 1001  │ PVPC 2.0TD active energy billing term                │ Hourly price of the energy term applied to the       │ PVPC T. 2.0TD                                         │
+│       │                                                      │ electricity bill of consumers with a contracted      │                                                       │
+│       │                                                      │ power not exceeding 10 kW and who are adhered to the │                                                       │
+│       │                                                      │ PVPC (Voluntary Price for the Small Consumer).       │                                                       │
+│       │                                                      │                                                      │                                                       │
+│       │                                                      │ Includes the energy term of the access tolls,        │                                                       │
+│       │                                                      │ charges, and production cost. Does not include taxes.│                                                       │
+│       │                                                      │                                                      │                                                       │
+│       │                                                      │ Publication: daily at 20:20 hours with information   │                                                       │
+│       │                                                      │ for day D+1.                                         │                                                       │
+│ 1002  │ PVPC 2.0TD Tariff Period                             │ Tariff period of the energy term applied to the      │ Period T. 2.0TD                                       │
+│       │                                                      │ electricity bill of consumers with a contracted      │                                                       │
+│       │                                                      │ power not exceeding 10 kW and who are adhered to the │                                                       │
+│       │                                                      │ PVPC (Voluntary Price for the Small Consumer).       │                                                       │
+│       │                                                      │                                                      │                                                       │
+│       │                                                      │ Publication: daily at 20:20 hours with information   │                                                       │
+│       │                                                      │ for day D+1.                                         │                                                       │
+│ 1003  │ PVPC 2.0TD P1 peak active energy billing term        │ Hourly price of tariff period 1 of the energy term   │ PVPC T. 2.0TD P1                                      │
+│       │                                                      │ applied to the electricity bill of consumers with a  │                                                       │
+│       │                                                      │ contracted power not exceeding 10 kW and who are     │                                                       │
+│       │                                                      │ adhered to the PVPC (Voluntary Price for the Small   │                                                       │
+│       │                                                      │ Consumer).                                           │                                                       │
+│       │                                                      │                                                      │                                                       │
+│       │                                                      │ Includes the energy term of the access tolls,        │                                                       │
+│       │                                                      │ charges, and production cost. Does not include taxes.│                                                       │
+│       │                                                      │                                                      │                                                       │
+│       │                                                      │ Publication: daily at 20:20 hours with information   │                                                       │
+│       │                                                      │ for day D+1.                                         │                                                       │
+│ 1004  │ PVPC 2.0TD P2 flat active energy billing term        │ Hourly price of tariff period 2 of the energy term   │ PVPC T. 2.0TD P2                                      │
+│       │                                                      │ applied to the electricity bill of consumers with a  │                                                       │
+│       │                                                      │ contracted power not exceeding 10 kW and who are     │                                                       │
+│       │                                                      │ adhered to the PVPC (Voluntary Price for the Small   │                                                       │
+│       │                                                      │ Consumer).                                           │                                                       │
+│       │                                                      │                                                      │                                                       │
+│       │                                                      │ Includes the energy term of the access tolls,        │                                                       │
+│       │                                                      │ charges, and production cost. Does not include taxes.│                                                       │
+│       │                                                      │                                                      │                                                       │
+│       │                                                      │ Publication: daily at 20:20 hours with information   │                                                       │
+│       │                                                      │ for day D+1.                                         │                                                       │
+│ 1005  │ PVPC 2.0TD P3 off-peak active energy billing term    │ Hourly price of tariff period 3 of the energy term   │ PVPC T. 2.0TD P3                                      │
+│       │                                                      │ applied to the electricity bill of consumers with a  │                                                       │
+│       │                                                      │ contracted power not exceeding 10 kW and who are     │                                                       │
+│       │                                                      │ adhered to the PVPC (Voluntary Price for the Small   │                                                       │
+│       │                                                      │ Consumer).                                           │                                                       │
+│       │                                                      │                                                      │                                                       │
+│       │                                                      │ Includes the energy term of the access tolls,        │                                                       │
+│       │                                                      │ charges, and production cost. Does not include taxes.│                                                       │
+│       │                                                      │                                                      │                                                       │
+│       │                                                      │ Publication: daily at 20:20 hours with information   │                                                       │
+│       │                                                      │ for day D+1.                                         │                                                       │
+│ 1006  │ Consumption profiles for PVPC billing purposes       │ Load profile that will be used to calculate billing  │ Consumption profiles for PVPC billing purposes Tariff │
+│       │ Tariff 2.0 GENERAL LOW VOLTAGE, POWER LESS THAN      │ for consumers adhered to the PVPC when the supply    │ 2.0 GENERAL LOW VOLTAGE, POWER LESS THAN 15 kW        │
+│       │ 15 kW                                                │ does not have measurement equipment with telemetry   │                                                       │
+│       │                                                      │ and telemanagement capacity, and effectively         │                                                       │
+│       │                                                      │ integrated into the corresponding systems, applying  │                                                       │
+│       │                                                      │ to the real readings by periods made available to    │                                                       │
+│       │                                                      │ marketers by the reading managers, said consumption  │                                                       │
+│       │                                                      │ profiles. For the calculation of these profiles, the │                                                       │
+│       │                                                      │ demand forecast by the System Operator is used.      │                                                       │
+│       │                                                      │                                                      │                                                       │
+│       │                                                      │ Specifically, this indicator refers to the           │                                                       │
+│       │                                                      │ consumption profiles for the calculation of PVPC     │                                                       │
+│       │                                                      │ billing for the 2.0TD Tariff.                        │                                                       │
+│       │                                                      │                                                      │                                                       │
+│       │                                                      │ Publication: daily around 21:00 hours with           │                                                       │
+│       │                                                      │ information for day D+1.                             │                                                       │
+│ 1013  │ PVPC default toll active energy billing term         │ Hourly price of the energy term applied to the       │ PVPC Default T.                                       │
+│       │                                                      │ electricity bill of consumers with a contracted      │                                                       │
+│       │                                                      │ power not exceeding 10 kW and who are adhered to the │                                                       │
+│       │                                                      │ PVPC (Voluntary Price for the Small Consumer).       │                                                       │
+│       │                                                      │                                                      │                                                       │
+│       │                                                      │ Includes the energy term of the access tolls (Order  │                                                       │
+│       │                                                      │ IET/107/2014, January 31), charges and production    │                                                       │
+│       │                                                      │ cost. Does not include taxes.                        │                                                       │
+│       │                                                      │                                                      │                                                       │
+│       │                                                      │ The hourly prices are the same for the entire        │                                                       │
+│       │                                                      │ Spanish territory regardless of the time zone.       │                                                       │
+│       │                                                      │                                                      │                                                       │
+│       │                                                      │ Specifically, this indicator refers to the price for │                                                       │
+│       │                                                      │ consumers with default tariff (TOLL 2.0 A).          │                                                       │
+│       │                                                      │                                                      │                                                       │
+│       │                                                      │ Publication: daily at 20:20 hours with information   │                                                       │
+│       │                                                      │ for day D+1.                                         │                                                       │
+│ 1014  │ PVPC 2-period efficiency (DHA) active energy billing │ Hourly price of the energy term applied to the       │ PVPC 2-period Efficiency T.                           │
+│       │ term                                                 │ electricity bill of consumers with a contracted      │                                                       │
+│       │                                                      │ power not exceeding 10 kW and who are adhered to the │                                                       │
+│       │                                                      │ PVPC (Voluntary Price for the Small Consumer).       │                                                       │
+│       │                                                      │                                                      │                                                       │
+│       │                                                      │ Includes the energy term of the access tolls (Order  │                                                       │
+│       │                                                      │ IET/107/2014, January 31), charges and production    │                                                       │
+│       │                                                      │ cost. Does not include taxes.                        │                                                       │
+│       │                                                      │                                                      │                                                       │
+│       │                                                      │ The hourly prices are the same for the entire        │                                                       │
+│       │                                                      │ Spanish territory regardless of the time zone.       │                                                       │
+│       │                                                      │                                                      │                                                       │
+│       │                                                      │ Specifically, this indicator refers to the price for │                                                       │
+│       │                                                      │ consumers with two-period efficiency tariff (TOLL    │                                                       │
+│       │                                                      │ 2.0 DHA).                                            │                                                       │
+│       │                                                      │                                                      │                                                       │
+│       │                                                      │ Publication: daily at 20:20 hours with information   │                                                       │
+│       │                                                      │ for day D+1.                                         │                                                       │
+│ 1015  │ PVPC electric vehicle active energy billing term     │ Hourly price of the energy term applied to the       │ PVPC Electric V.                                      │
+│       │                                                      │ electricity bill of consumers with a contracted      │                                                       │
+│       │                                                      │ power not exceeding 10 kW and who are adhered to the │                                                       │
+│       │                                                      │ PVPC (Voluntary Price for the Small Consumer).       │                                                       │
+│       │                                                      │                                                      │                                                       │
+│       │                                                      │ Includes the energy term of the access tolls (Order  │                                                       │
+│       │                                                      │ IET/107/2014, January 31), charges and production    │                                                       │
+│       │                                                      │ cost. Does not include taxes.                        │                                                       │
+│       │                                                      │                                                      │                                                       │
+│       │                                                      │ The hourly prices are the same for the entire        │                                                       │
+│       │                                                      │ Spanish territory regardless of the time zone.       │                                                       │
+│       │                                                      │                                                      │                                                       │
+│       │                                                      │ Specifically, this indicator refers to the price for │                                                       │
+│       │                                                      │ consumers with default tariff (TOLL 2.0 DHS).        │                                                       │
+│       │                                                      │                                                      │                                                       │
+│       │                                                      │ Publication: daily at 20:20 hours with information   │                                                       │
+│       │                                                      │ for day D+1.                                         │                                                       │
+│ 1739  │ Surplus energy price of self-consumption for the     │ Hourly price of the surplus energy fed into the grid │ Surplus energy price                                  │
+│       │ simplified compensation mechanism (PVPC)             │ by the generation facilities of consumers who have a │                                                       │
+│       │                                                      │ PVPC supply contract with a reference marketer, and  │                                                       │
+│       │                                                      │ are adhered to the simplified compensation mechanism │                                                       │
+│       │                                                      │ defined in article 14 of Royal Decree 244/2019, of   │                                                       │
+│       │                                                      │ April 5.                                             │                                                       │
+│       │                                                      │                                                      │                                                       │
+│       │                                                      │ The hourly surplus energy is valued at the average   │                                                       │
+│       │                                                      │ hourly price, Pmh (defined in article 10, Royal      │                                                       │
+│       │                                                      │ Decree 216/2014, of March 28) obtained from the      │                                                       │
+│       │                                                      │ results of the daily and intraday market in hour h,  │                                                       │
+│       │                                                      │ minus the cost of deviations CDSVh (defined in       │                                                       │
+│       │                                                      │ article 11, Royal Decree 216/2014, of March 28).     │                                                       │
+│       │                                                      │ Does not include taxes.                              │                                                       │
+│       │                                                      │                                                      │                                                       │
+│       │                                                      │ The hourly surplus energy of consumers adhered to    │                                                       │
+│       │                                                      │ the simplified compensation mechanism is exempt from │                                                       │
+│       │                                                      │ paying the access tolls established in Royal Decree  │                                                       │
+│       │                                                      │ 1544/2011, of October 31.                            │                                                       │
+│       │                                                      │                                                      │                                                       │
+│       │                                                      │ The hourly prices are the same for the entire        │                                                       │
+│       │                                                      │ Spanish territory regardless of the time zone.       │                                                       │
+│       │                                                      │                                                      │                                                       │
+│       │                                                      │ Publication: daily at 20:20 hours with information   │                                                       │
+│       │                                                      │ for day D+1.                                         │                                                       │
+│ 10229 │ PVPC default toll active energy billing term sum of  │ Hourly price of the energy term applied to the       │ PVPC Default T.                                       │
+│       │ components                                           │ electricity bill of consumers with a contracted      │                                                       │
+│       │                                                      │ power not exceeding 10 kW and who are adhered to the │                                                       │
+│       │                                                      │ PVPC (Voluntary Price for the Small Consumer).       │                                                       │
+│       │                                                      │                                                      │                                                       │
+│       │                                                      │ Includes the energy term of the access tolls (Order  │                                                       │
+│       │                                                      │ IET/107/2014, January 31), charges and production    │                                                       │
+│       │                                                      │ cost. Does not include taxes.                        │                                                       │
+│       │                                                      │                                                      │                                                       │
+│       │                                                      │ The hourly prices are the same for the entire        │                                                       │
+│       │                                                      │ Spanish territory regardless of the time zone.       │                                                       │
+│       │                                                      │                                                      │                                                       │
+│       │                                                      │ Specifically, this indicator refers to the price for │                                                       │
+│       │                                                      │ consumers with default tariff (TOLL 2.0.A). The      │                                                       │
+│       │                                                      │ breakdown of this indicator provides the detail of   │                                                       │
+│       │                                                      │ the concepts that determine the final price.         │                                                       │
+│       │                                                      │                                                      │                                                       │
+│       │                                                      │ Publication: daily at 20:20 hours with information   │                                                       │
+│       │                                                      │ for day D+1.                                         │                                                       │
+│ 10230 │ PVPC 2-period efficiency (DHA) active energy billing │ Hourly price of the energy term applied to the       │ PVPC 2-period Efficiency T.                           │
+│       │ term sum of components                               │ electricity bill of consumers with a contracted      │                                                       │
+│       │                                                      │ power not exceeding 10 kW and who are adhered to the │                                                       │
+│       │                                                      │ PVPC (Voluntary Price for the Small Consumer).       │                                                       │
+│       │                                                      │                                                      │                                                       │
+│       │                                                      │ Includes the energy term of the access tolls (Order  │                                                       │
+│       │                                                      │ IET/107/2014, January 31), charges and production    │                                                       │
+│       │                                                      │ cost. Does not include taxes.                        │                                                       │
+│       │                                                      │                                                      │                                                       │
+│       │                                                      │ The hourly prices are the same for the entire        │                                                       │
+│       │                                                      │ Spanish territory regardless of the time zone.       │                                                       │
+│       │                                                      │                                                      │                                                       │
+│       │                                                      │ Specifically, this indicator refers to the price for │                                                       │
+│       │                                                      │ consumers with two-period efficiency tariff (TOLL    │                                                       │
+│       │                                                      │ 2.0 DHA). The breakdown of this indicator provides   │                                                       │
+│       │                                                      │ the detail of the concepts that determine the final  │                                                       │
+│       │                                                      │ price.                                               │                                                       │
+│       │                                                      │                                                      │                                                       │
+│       │                                                      │ Publication: daily at 20:20 hours with information   │                                                       │
+│       │                                                      │ for day D+1.                                         │                                                       │
+│ 10231 │ PVPC electric vehicle active energy billing term sum │ Hourly price of the energy term applied to the       │ PVPC Electric V.                                      │
+│       │ of components                                        │ electricity bill of consumers with a contracted      │                                                       │
+│       │                                                      │ power not exceeding 10 kW and who are adhered to the │                                                       │
+│       │                                                      │ PVPC (Voluntary Price for the Small Consumer).       │                                                       │
+│       │                                                      │                                                      │                                                       │
+│       │                                                      │ Includes the energy term of the access tolls (Order  │                                                       │
+│       │                                                      │ IET/107/2014, January 31), charges and production    │                                                       │
+│       │                                                      │ cost. Does not include taxes.                        │                                                       │
+│       │                                                      │                                                      │                                                       │
+│       │                                                      │ The hourly prices are the same for the entire        │                                                       │
+│       │                                                      │ Spanish territory regardless of the time zone.       │                                                       │
+│       │                                                      │                                                      │                                                       │
+│       │                                                      │ Specifically, this indicator refers to the price for │                                                       │
+│       │                                                      │ consumers with default tariff (TOLL 2.0.DHS). The    │                                                       │
+│       │                                                      │ breakdown of this indicator provides the detail of   │                                                       │
+│       │                                                      │ the concepts that determine the final price.         │                                                       │
+│       │                                                      │                                                      │                                                       │
+│       │                                                      │ Publication: daily at 20:20 hours with information   │                                                       │
+│       │                                                      │ for day D+1.                                         │                                                       │
+│ 10391 │ PVPC 2.0TD active energy billing term sum of         │ Hourly price of the energy term applied to the       │ 2.0TD sum of components                               │
+│       │ components                                           │ electricity bill of consumers with a contracted      │                                                       │
+│       │                                                      │ power not exceeding 10 kW and who are adhered to the │                                                       │
+│       │                                                      │ PVPC (Voluntary Price for the Small Consumer).       │                                                       │
+│       │                                                      │                                                      │                                                       │
+│       │                                                      │ Includes the energy term of the access tolls,        │                                                       │
+│       │                                                      │ charges, and production cost. Does not include taxes.│                                                       │
+│       │                                                      │                                                      │                                                       │
+│       │                                                      │ Specifically, this indicator refers to the price for │                                                       │
+│       │                                                      │ consumers with 2.0TD tariff. The breakdown of this   │                                                       │
+│       │                                                      │ indicator provides the detail of the concepts that   │                                                       │
+│       │                                                      │ determine the final price.                           │                                                       │
+│       │                                                      │                                                      │                                                       │
+│       │                                                      │ Publication: daily at 20:20 hours with information   │                                                       │
+│       │                                                      │ for day D+1.                                         │                                                       │
+└───────┴──────────────────────────────────────────────────────┴──────────────────────────────────────────────────────┴───────────────────────────────────────────────────────┘
